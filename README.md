@@ -15,6 +15,9 @@
 
 - **[The Fuck](https://github.com/nvbn/thefuck)** by [Vladimir Iakovlev](https://github.com/nvbn)<br>
   Magnificent app which corrects your previous console command.
+  
+- **[OpenCV](https://github.com/opencv/opencv)** by [Intel](https://github.com/intel)<br>
+  Most popular computer vision software library.
 
 ## > 10k ★
 
@@ -26,9 +29,6 @@
   
 - **[Core JS](https://github.com/zloirock/core-js)** by [Denis Pushkarev](https://github.com/zloirock/core-js)<br>
   Modular standard library for JavaScript.
-  
-- **[Editor.js](https://github.com/codex-team/editor.js)** by [Codex Team](https://github.com/codex-team)<br>
-  API-oriented, block-styled editor for Media. Generates useful JSON-output with clear data. 
   
 - **[Framework7](https://github.com/framework7io/framework7)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
   Full featured HTML framework for building iOS & Android apps.
@@ -109,9 +109,6 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 
 - **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)<br>
   The free and open source typeface for developers.
-  
-- **[JS YAML](https://github.com/nodeca/js-yaml)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
-  JavaScript YAML parser and dumper. Very fast.
   
 - **[JSS](https://github.com/cssinjs/jss)** by [Oleg Isonen](https://github.com/kof)<br>
   Authoring tool for CSS which uses JavaScript as a host language.
